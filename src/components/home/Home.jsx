@@ -5,7 +5,7 @@ import { Card } from './hero/Card'
 import { Hero } from './hero/Hero'
 import { Price } from './price/Price'
 import { Product } from './product/Product'
-import { Testimonial } from './testimonial/testimonial'
+import { Testimonial } from './testimonial/Testimonial'
 import { TopProduct } from './topproduct/TopProduct'
 
 export const Home = () => {
